@@ -19,7 +19,7 @@ public class FXMLController implements Initializable {
     
     @FXML
     private void btnClickAction(ActionEvent event) {
-        lblOut.setText("Hello World!");
+        lblOut.setText("hola com va?");
     }
     
     @Override
